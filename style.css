@@ -47,9 +47,6 @@ body{
     font-weight: bolder;
     color: black;
 }
-.form{
-    position: relative;
-}
 .input{
     width: 450px;
     height: 50px;
